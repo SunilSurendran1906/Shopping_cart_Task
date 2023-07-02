@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.card-img-top{
+  width: 270px;
+  height: 250px;
+  
+
+}
+
+.py-5 {
+  padding-top: 1rem!important;
+  padding-bottom: 1rem!important;
+}
+
+#footer{
+  padding-top: 400px;
+}
